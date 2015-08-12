@@ -25,8 +25,7 @@
                 android:layout_weight="1"
                 android:text="Replay"
                 />
-    </LinearLayout>
-    <VideoView android:layout_width="match_parent"
+     <VideoView android:layout_width="match_parent"
                android:layout_height="match_parent"
                android:id="@+id/video_view"
             />
